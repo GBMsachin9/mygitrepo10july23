@@ -1,3 +1,5 @@
 my file
 
 Upating changes
+
+This is line 3
